@@ -1,0 +1,6 @@
+/home/dave/workspace/nexus-blobstore-s3/src/main/java/org/sonatype/nexus/blobstore/s3/internal/S3BlobStore.java
+/home/dave/workspace/nexus-blobstore-s3/src/main/java/org/sonatype/nexus/blobstore/s3/internal/AmazonS3Factory.java
+/home/dave/workspace/nexus-blobstore-s3/src/main/java/org/sonatype/nexus/blobstore/s3/internal/S3BlobStoreMetricsStore.java
+/home/dave/workspace/nexus-blobstore-s3/src/main/java/org/sonatype/nexus/blobstore/s3/internal/S3BlobAttributes.java
+/home/dave/workspace/nexus-blobstore-s3/src/main/java/org/sonatype/nexus/blobstore/s3/internal/S3PropertiesFile.java
+/home/dave/workspace/nexus-blobstore-s3/src/main/java/org/sonatype/nexus/blobstore/s3/internal/S3BlobStoreDescriptor.java

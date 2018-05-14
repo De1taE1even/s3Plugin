@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sonatype.nexus.blobstore.s3.internal.S3PropertiesFileTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.683 sec - in org.sonatype.nexus.blobstore.s3.internal.S3PropertiesFileTest

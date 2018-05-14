@@ -1,0 +1,4 @@
+org.sonatype.nexus.blobstore.s3.internal.AmazonS3Factory
+org.sonatype.nexus.blobstore.s3.internal.S3BlobStoreDescriptor
+org.sonatype.nexus.blobstore.s3.internal.S3BlobStore
+org.sonatype.nexus.blobstore.s3.internal.S3BlobStoreMetricsStore

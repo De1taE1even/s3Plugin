@@ -1,0 +1,10 @@
+org/sonatype/nexus/blobstore/s3/internal/S3BlobStoreDescriptor$Messages.class
+org/sonatype/nexus/blobstore/s3/internal/S3BlobAttributes.class
+org/sonatype/nexus/blobstore/s3/internal/S3PropertiesFile.class
+org/sonatype/nexus/blobstore/s3/internal/S3BlobStore$BlobIngester.class
+org/sonatype/nexus/blobstore/s3/internal/S3BlobStoreMetricsStore.class
+org/sonatype/nexus/blobstore/s3/internal/S3BlobStore$S3Blob.class
+org/sonatype/nexus/blobstore/s3/internal/AmazonS3Factory.class
+org/sonatype/nexus/blobstore/s3/internal/S3BlobStore.class
+org/sonatype/nexus/blobstore/s3/internal/S3BlobStoreDescriptor.class
+META-INF/sisu/javax.inject.Named
